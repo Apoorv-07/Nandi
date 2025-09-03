@@ -4,8 +4,21 @@
     "open_trade": null
   },
   "TCS.NS": {
-    "last_trade_date": null,
-    "open_trade": null
+    "last_trade_date": "2025-09-03",
+    "open_trade": {
+      "timestamp": "2025-09-03 10:11:37",
+      "ticker": "TCS.NS",
+      "type": "short",
+      "entry_time": "2025-09-03 10:10:00",
+      "entry_price": 3114.0,
+      "sl": 3141.0,
+      "target": 3073.5,
+      "qty": 1,
+      "exit_time": null,
+      "exit_price": null,
+      "pnl": null,
+      "mode": "paper"
+    }
   },
   "INFY.NS": {
     "last_trade_date": null,

@@ -1,0 +1,2 @@
+timestamp,ticker,type,entry_time,entry_price,sl,target,qty,exit_time,exit_price,pnl,mode,note
+2025-09-03 10:11:37,TCS.NS,short,2025-09-03 10:10:00,3114.0,3141.0,3073.5,1,,,,paper,ENTRY
