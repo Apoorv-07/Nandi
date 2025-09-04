@@ -34,16 +34,16 @@
     }
   },
   "INFY.NS": {
-    "last_trade_date": "2025-09-03",
+    "last_trade_date": "2025-09-04",
     "open_trade": {
-      "timestamp": "2025-09-03 10:48:39",
+      "timestamp": "2025-09-04 10:28:52",
       "ticker": "INFY.NS",
       "type": "short",
-      "entry_time": "2025-09-03 10:45:00",
-      "entry_price": 1475.800048828125,
-      "sl": 1496.699951171875,
-      "target": 1444.4501953125,
-      "qty": 2,
+      "entry_time": "2025-09-04 10:25:00",
+      "entry_price": 1470.0999755859375,
+      "sl": 1483.800048828125,
+      "target": 1449.5498657226562,
+      "qty": 3,
       "exit_time": null,
       "exit_price": null,
       "pnl": null,
