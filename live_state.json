@@ -1,15 +1,15 @@
 {
   "RELIANCE.NS": {
-    "last_trade_date": "2025-09-10",
+    "last_trade_date": "2025-09-11",
     "open_trade": {
-      "timestamp": "2025-09-10 14:42:33",
+      "timestamp": "2025-09-11 10:44:40",
       "ticker": "RELIANCE.NS",
-      "type": "short",
-      "entry_time": "2025-09-10 14:40:00",
-      "entry_price": 1374.800048828125,
-      "sl": 1388.5,
-      "target": 1354.2501220703125,
-      "qty": 3,
+      "type": "long",
+      "entry_time": "2025-09-11 10:40:00",
+      "entry_price": 1383.199951171875,
+      "sl": 1375.4000244140625,
+      "target": 1394.8998413085938,
+      "qty": 6,
       "exit_time": null,
       "exit_price": null,
       "pnl": null,
