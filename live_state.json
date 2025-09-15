@@ -17,16 +17,16 @@
     }
   },
   "TCS.NS": {
-    "last_trade_date": "2025-09-11",
+    "last_trade_date": "2025-09-15",
     "open_trade": {
-      "timestamp": "2025-09-11 10:08:20",
+      "timestamp": "2025-09-15 10:08:19",
       "ticker": "TCS.NS",
       "type": "short",
-      "entry_time": "2025-09-11 10:05:00",
-      "entry_price": 3114.89990234375,
-      "sl": 3136.300048828125,
-      "target": 3082.7996826171875,
-      "qty": 2,
+      "entry_time": "2025-09-15 10:05:00",
+      "entry_price": 3110.800048828125,
+      "sl": 3127.0,
+      "target": 3086.5001220703125,
+      "qty": 3,
       "exit_time": null,
       "exit_price": null,
       "pnl": null,
